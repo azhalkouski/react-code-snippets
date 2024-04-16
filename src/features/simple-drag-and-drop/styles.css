@@ -1,0 +1,47 @@
+.drag-and-drop-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.drag-and-drop-container-main {
+  display: flex;
+  width: 800px;
+  justify-content: space-between;
+  margin: 50px 0;
+}
+
+.draggable-list-container {
+  width: 300px;
+  margin-bottom: 150px;
+}
+
+.draggable-item {
+  padding: 10px;
+  margin: 5px;
+  background-color: grey;
+}
+
+.drop-zone-container {
+  width: 400px;
+  height: 300px;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+}
+
+.drop-zone-header-container {
+  border-bottom: 1px solid;
+}
+
+.drop-zone-area {
+  background-color: #ced9d1;
+  flex-grow: 1;
+  overflow: auto;
+}
+
+.drop-zone-inner-item {
+  padding: 10px;
+  margin: 5px;
+  background-color: grey;
+}

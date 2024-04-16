@@ -1,0 +1,8 @@
+{
+  "SIMPLE_DRAD_AND_DROP": {
+    "isEnabled": false
+  },
+  "FILTERABLE_TABLE_WITH_DRAG_AND_DROP_SORT": {
+    "isEnabled": true
+  }
+}
