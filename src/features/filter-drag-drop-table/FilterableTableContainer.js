@@ -17,7 +17,6 @@ export default function FilterablePeopleTable() {
 
 
   useEffect(() => {
-    console.log('useEffect invoked')
     const fetchData = async () => {
         try {
             const people = await fetchPeople();
