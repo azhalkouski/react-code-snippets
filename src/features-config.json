@@ -3,6 +3,9 @@
     "isEnabled": false
   },
   "FILTERABLE_TABLE_WITH_DRAG_AND_DROP_SORT": {
+    "isEnabled": false
+  },
+  "MEMO_USE_MEMO_USE_CALLBACK_DEMO_ENABLED": {
     "isEnabled": true
   }
 }
