@@ -6,6 +6,9 @@
     "isEnabled": false
   },
   "MEMO_USE_MEMO_USE_CALLBACK_DEMO_ENABLED": {
+    "isEnabled": false
+  },
+  "MEMOIZED_HEAVY_FUNCTION_ENABLED": {
     "isEnabled": true
   }
 }
